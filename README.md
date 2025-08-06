@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawnios&show_icons=true&locale=en" alt="pawnios" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawnios&" alt="pawnios" /></p>
+<p><img align="center" src="https://github.com/Pawnios" alt="pawnios" /></p>
 
 
 ## GSSOC(24) Badges 🪶
