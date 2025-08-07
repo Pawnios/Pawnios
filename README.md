@@ -15,9 +15,7 @@
 
 - 💬 Ask me about **Life**
 
-- 📫 How to reach me **pawni.yadav.ug23@nsut.ac.in**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_Nm1zdlnPRGaZ19rI601cSfPK8PUaG0F/view?usp=drive_link](https://drive.google.com/file/d/1_Nm1zdlnPRGaZ19rI601cSfPK8PUaG0F/view?usp=drive_link)
+- 📫 How to reach me **pawniyadav3435@gmail.com**
 
 - ⚡ Fun fact **Roses are red, violets are blue, IndentationError on line 32**
 
