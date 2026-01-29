@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawnios" alt="pawnios" /></a> </p>
 
+NOTE: Repository for project Promptqueen has been temporarily made private for maintenance. 
 - 🔭 I’m currently working on [Online_judge_project](https://github.com/Pawnios/Online_judge_Project)
 
 - 🌱 I’m currently learning **Django and AI**
