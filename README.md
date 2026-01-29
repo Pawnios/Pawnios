@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawni Yadav</h1>
 <h3 align="center">Python enthusiast on a quest to implement every ML algorithm in the universe — even the ones aliens haven't invented yet.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawnios&label=Profile%20views&color=0e75b6&style=flat" alt="pawnios" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawnios" alt="pawnios" /></a> </p>
 
 NOTE: Repository for project Promptqueen has been temporarily made private for maintenance. 
 - 🔭 I’m currently working on [Online_judge_project](https://github.com/Pawnios/Online_judge_Project)
