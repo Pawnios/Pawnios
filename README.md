@@ -12,7 +12,7 @@ NOTE: Repository for project Promptqueen has been temporarily made private for m
 
 - 📫 How to reach me **pawniyadav3435@gmail.com**
 
-- ⚡ Fun fact **Roses are red, violets are blue, IndentationError on line 32**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
