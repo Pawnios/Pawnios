@@ -8,7 +8,7 @@ NOTE: Repository for project Promptqueen has been temporarily made private for m
 - 🌱 I’m currently learning **AI**
 
 
-- 💬 Don't ask me  **when we'll be able to develop a true AGI, I'll launch into a 34 hour long monologue **
+- 💬 Don't ask me  when we'll be able to develop a true AGI, I'll launch into a 34 hour long monologue
 
 - 📫 How to reach me **pawniyadav3435@gmail.com**
 
