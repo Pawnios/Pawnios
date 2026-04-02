@@ -5,11 +5,8 @@
 NOTE: Repository for project Promptqueen has been temporarily made private for maintenance. 
 - 🔭 I’m currently working on [Online_judge_project](https://github.com/Pawnios/Online_judge_Project)
 
-- 🌱 I’m currently learning **Django and AI**
+- 🌱 I’m currently learning **AI**
 
-- 👯 I’m looking to collaborate on [Cleaning robot simulation](https://github.com/Pawnios/Cleaning-Robot-Simulation)
-
-- 🤝 I’m looking for help with [Reinforcement_Learning_Stock](https://github.com/Pawnios/Reinforcement_Learning_Stock)
 
 - 💬 Ask me about **Life**
 
